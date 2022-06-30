@@ -6,7 +6,6 @@ After building on skills in data preparation, statistical reasoning, and machine
 Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, I oversampled the data using the RandomOverSampler and SMOTE algorithms, and undersampled the data using the ClusterCentroids algorithm. Next, I used a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Finally, I compared two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
 
 ## Results
-Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results. There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
 
 ### RandomOverSampler (Oversampling)
 
